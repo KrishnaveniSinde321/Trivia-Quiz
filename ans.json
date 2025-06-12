@@ -1,0 +1,68 @@
+{
+    "Food and Drink": [
+        {
+            "question": "Which country is famous for originating sushi?",
+            "answer": "B) Japan"
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "answer": "C) Avocado"
+        },
+        {
+            "question": "Which fruit is known as the 'king of fruits'?",
+            "answer": "C) Mango"
+        },
+        {
+            "question": "What type of pasta is shaped like small rice grains?",
+            "answer": "B) Orzo"
+        },
+        {
+            "question": "What alcoholic spirit is made from juniper berries?",
+            "answer": "C) Gin"
+        }
+    ],
+    "Geography": [
+        {
+            "question": "What is the largest desert in the world?",
+            "answer": "C) Sahara Desert"
+        },
+        {
+            "question": "Which river is the longest in the world?",
+            "answer": "C) Nile River"
+        },
+        {
+            "question": "Mount Everest is part of which mountain range?",
+            "answer": "C) Himalayas"
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "answer": "C) Canberra"
+        },
+        {
+            "question": "Which country has the most natural lakes?",
+            "answer": "C) Canada"
+        }
+    ],
+    "Technology": [
+        {
+            "question": "Who is known as the father of the World Wide Web?",
+            "answer": "B) Tim Berners-Lee"
+        },
+        {
+            "question": "What does 'HTML' stand for?",
+            "answer": "A) HyperText Markup Language"
+        },
+        {
+            "question": "What year was the first iPhone released?",
+            "answer": "C) 2007"
+        },
+        {
+            "question": "What is the name of the AI system developed by OpenAI?",
+            "answer": "D) ChatGPT"
+        },
+        {
+            "question": "Which programming language is known for its simplicity and often used in educational settings?",
+            "answer": "C) Python"
+        }
+    ]
+}

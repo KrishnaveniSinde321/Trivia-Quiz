@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="quiz.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>Trivia Quiz</h1>
+        <nav>
+            <ul>
+                <li><a href="quiz.html">Start Quiz</a></li>
+                <li><a href="highscore.html">Leaderboard</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="feedback.html">Feedback</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li id="back"><a href="index.html">Back to Home</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="quiz-section">
+        <div id="timer">Time left: 2:00</div> <!-- Timer Display -->
+        <div id="quiz-container"></div>
+        <!--Questions will be added here-->
+        <button id="submit-quiz" >Submit Quiz</button>
+    </section>
+</body>
+
+</html>

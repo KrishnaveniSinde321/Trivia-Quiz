@@ -1,0 +1,145 @@
+<quiz>
+    <category name="Food and Drink">
+        <question>
+            <text>Which country is famous for originating sushi?</text>
+            <options>
+                <option>A) China</option>
+                <option>B) Japan</option>
+                <option>C) Thailand</option>
+                <option>D) Korea</option>
+            </options>
+        </question>
+        <question>
+            <text>What is the main ingredient in guacamole?</text>
+            <options>
+                <option>A) Tomato</option>
+                <option>B) Lime</option>
+                <option>C) Avocado</option>
+                <option>D) Onion</option>
+            </options>
+        </question>
+        <question>
+            <text>Which fruit is known as the "king of fruits"?</text>
+            <options>
+                <option>A) Pineapple</option>
+                <option>B) Apple</option>
+                <option>C) Mango</option>
+                <option>D) Banana</option>
+            </options>
+        </question>
+        <question>
+            <text>What type of pasta is shaped like small rice grains?</text>
+            <options>
+                <option>A) Fusilli</option>
+                <option>B) Orzo</option>
+                <option>C) Penne</option>
+                <option>D) Farfalle</option>
+            </options>
+        </question>
+        <question>
+            <text>What alcoholic spirit is made from juniper berries?</text>
+            <options>
+                <option>A) Vodka</option>
+                <option>B) Rum</option>
+                <option>C) Gin</option>
+                <option>D) Whiskey</option>
+            </options>
+        </question>
+    </category>
+
+    <category name="Geography">
+        <question>
+            <text>What is the largest desert in the world?</text>
+            <options>
+                <option>A) Gobi Desert</option>
+                <option>B) Kalahari Desert</option>
+                <option>C) Sahara Desert</option>
+                <option>D) Arabian Desert</option>
+            </options>
+        </question>
+        <question>
+            <text>Which river is the longest in the world?</text>
+            <options>
+                <option>A) Amazon River</option>
+                <option>B) Yangtze River</option>
+                <option>C) Nile River</option>
+                <option>D) Mississippi River</option>
+            </options>
+        </question>
+        <question>
+            <text>Mount Everest is part of which mountain range?</text>
+            <options>
+                <option>A) Andes</option>
+                <option>B) Rockies</option>
+                <option>C) Himalayas</option>
+                <option>D) Alps</option>
+            </options>
+        </question>
+        <question>
+            <text>What is the capital city of Australia?</text>
+            <options>
+                <option>A) Sydney</option>
+                <option>B) Melbourne</option>
+                <option>C) Canberra</option>
+                <option>D) Brisbane</option>
+            </options>
+        </question>
+        <question>
+            <text>Which country has the most natural lakes?</text>
+            <options>
+                <option>A) United States</option>
+                <option>B) Russia</option>
+                <option>C) Canada</option>
+                <option>D) Brazil</option>
+            </options>
+        </question>
+    </category>
+
+    <category name="Technology">
+        <question>
+            <text>Who is known as the father of the World Wide Web?</text>
+            <options>
+                <option>A) Steve Jobs</option>
+                <option>B) Tim Berners-Lee</option>
+                <option>C) Bill Gates</option>
+                <option>D) Alan Turing</option>
+            </options>
+        </question>
+        <question>
+            <text>What does "HTML" stand for?</text>
+            <options>
+                <option>A) HyperText Markup Language</option>
+                <option>B) High-Level Machine Language</option>
+                <option>C) Hyper Transfer Media Link</option>
+                <option>D) Hypertext Modular Layout</option>
+            </options>
+        </question>
+        <question>
+            <text>What year was the first iPhone released?</text>
+            <options>
+                <option>A) 2005</option>
+                <option>B) 2006</option>
+                <option>C) 2007</option>
+                <option>D) 2008</option>
+            </options>
+        </question>
+        <question>
+            <text>What is the name of the AI system developed by OpenAI?</text>
+            <options>
+                <option>A) AlphaGo</option>
+                <option>B) Watson</option>
+                <option>C) Siri</option>
+                <option>D) ChatGPT</option>
+            </options>
+        </question>
+        <question>
+            <text>Which programming language is known for its simplicity and often used in educational settings?</text>
+            <options>
+                <option>A) C++</option>
+                <option>B) Java</option>
+                <option>C) Python</option>
+                <option>D) JavaScript</option>
+            </options>
+        </question>
+    </category>
+</quiz>

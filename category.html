@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Category</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="category.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Select a Category</h1>
+        <nav>
+            <ul>
+                <li><a href="quiz.html">Start Quiz</a></li>
+                <li><a href="highscore.html">Leaderboard</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="feedback.html">Feedback</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li id="back"><a href="index.html">Back to Home</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+
+        <select id="category-select">
+            <option value="">-- Select a category --</option>
+            <!-- Categories will be dynamically added here -->
+        </select>
+        <button id="start-quiz">Start Quiz</button>
+
+
+    </section>
+</body>
+
+</html>
